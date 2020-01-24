@@ -7,4 +7,5 @@ property 'ec_test', {
     prop3='3'
     prop4='4'
     prop5='5'
+    prop6='6'
 }

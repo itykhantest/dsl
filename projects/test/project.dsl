@@ -6,5 +6,6 @@ project 'test', {
         proc6='6'
         proc7='7'
         proc8='8'
+        proc9='9'
     }
 }
